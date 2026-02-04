@@ -1,2 +1,1 @@
-# data-analysis
-data analysis portfolio
+Welcome to my data analysis portfolio. This space highlights my work across Power BI, SQL, and end‑to‑end analytics. Each project includes documentation, insights, and downloadable files to demonstrate my technical and analytical approach.
