@@ -75,8 +75,10 @@ These insights can inform decisions around pricing strategy, inventory planning,
 
 📁 Files Included
 - SalesDashboard.pbix — Full Power BI report
-- SalesDashboard.pdf — Exported dashboard for quick review
-- visuals/ — High‑resolution screenshots of key pages
+- 01Sales Dshbrd- Sales Overview
+- 02Sales Dshbrd- Discount Analysis
+- 03Sales Dshbrd- Shipping Performance
+- 04Sales Dshbrd-Customer Insights
 
 📥 How to Explore the Dashboard
 Download the PBIX file and open it in Power BI Desktop to interact with filters, drill‑downs, and detailed views.
