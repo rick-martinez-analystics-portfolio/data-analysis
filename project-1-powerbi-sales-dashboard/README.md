@@ -65,13 +65,69 @@ Customer segmentation and performance analysis designed to support retention and
 - YoY trends by segment and month
 
 
-🔍 Insights & Business Impact
-Key findings from the analysis include:
-- Technology drives the highest revenue, but Furniture shows inconsistent profitability, suggesting cost or discounting issues.
-- The West region outperforms others in revenue but has margin volatility tied to shipping costs.
-- Several high‑volume products generate low profit, indicating opportunities for pricing optimization.
-- The Consumer segment accounts for the majority of orders, but the Corporate segment shows higher average order value.
-These insights can inform decisions around pricing strategy, inventory planning, and targeted marketing.
+📊 Executive Summary: Sales, Customer Health & Segment Risk (2012–2014)
+The business grew consistently from 2012–2014, with rising sales, profit, and strong margins—especially in Technology and Office Supplies. However, customer health deteriorated across all segments. A growing share of revenue now comes from customers who are buying less each year, creating a structural risk beneath top‑line growth. Office Supplies shows the most severe decline, Technology remains the healthiest but is weakening, and Furniture sits in the middle with steady deterioration.
+
+📈 Business Performance Overview
+- Sales, quantity, and profit increased each year.
+- Profit grew faster than sales from 2012→2013, indicating improved efficiency before a mild correction in 2014.
+- Technology and Office Supplies delivered the strongest margins and were the primary profit engines.
+
+👥 Customer Base & Revenue Concentration
+- Revenue is widely distributed; the top 10 customers contribute only a small share.
+- Losing even the largest customers would have minimal impact on total sales.
+- Growth is driven by broad customer activity, not a few major accounts.
+- Customer mix is primarily Consumer (51%), followed by Corporate (30%) and Home Office (19%).
+Interpretation:
+The business operates like a transactional retail model—high volume, low dependency, diversified revenue streams.
+
+📉 Customer Decline & Revenue Exposure
+- Declining customers increased from 29% → 34% (2012–2014).
+- Sales from declining customers rose from 12.6% → 15.6%.
+- Over three years, 22.45% of total revenue ($2.33M) came from customers who are shrinking YoY.
+Implication:
+Customer health is weakening, and revenue risk is rising. Growth is masking underlying deterioration, increasing future vulnerability if declining customers continue to shrink or churn.
+
+📊 Segment-Level Customer Health & Risk
+Technology — Strongest but Weakening
+- Declining customers: 13–18%
+- Sales from declining customers: 6–9%
+- Declining‑customer revenue: $61K → $150K → $570K
+Interpretation: Healthiest segment with strong margins, but rising exposure signals emerging risk.
+Office Supplies — Highest Churn & Revenue Risk
+- Declining customers: 26–30%
+- Sales from declining customers: 10–11%
+- Declining‑customer revenue: $629K (highest)
+Interpretation: Fastest deterioration and largest revenue at risk. Primary driver of overall customer decline.
+Furniture — Moderate Decline, Margin Sensitive
+- Declining customers: 15–19%
+- Sales from declining customers: 6.5–9%
+- Declining‑customer revenue: $522K
+Interpretation: Middle‑risk segment with volatile margins and discount sensitivity. Requires stabilization.
+
+🎯 Investment & Retention Priorities
+1. Office Supplies — Retain First
+- Highest decline rate and revenue exposure
+- Margins improving despite churn
+Strategic role: Stop the bleeding.
+2. Furniture — Stabilize
+- Volatile margins and rising decline
+Strategic role: Prevent further erosion.
+3. Technology — Grow + Protect
+- Strongest margins and healthiest customers
+- Rising declining‑customer dollars → re‑engagement opportunity
+Strategic role: Growth engine.
+
+💹 Margin & Pricing Insights
+- Discounts loosened slightly (10.36% → 10.52%) but margins held steady.
+- Technology and Office Supplies show strong pricing power and resilient product mix.
+- Furniture’s margin drop suggests shipping cost pressure and lower‑margin mix.
+
+🔧 Retention Strategy by Segment
+- Office Supplies: Target declining customers, personalized offers, reorder reminders, bundle incentives, re‑engage lapsed high‑value buyers.
+- Furniture: Optimize shipping, category‑specific promotions, seasonal campaigns, re‑engage prior large‑item buyers.
+- Technology: Upsell higher‑margin items, loyalty perks, early access, personalized recommendations for declining customers.
+
 
 📁 Files Included
 - SalesDashboard.pbix — Full Power BI report
