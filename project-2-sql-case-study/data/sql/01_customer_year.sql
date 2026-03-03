@@ -9,3 +9,7 @@ WITH customer_year AS (
     GROUP BY 
         CustomerID, Segment, Category, STRFTIME('%Y', OrderDate)
 )
+SELECT *
+FROM customer_year
+LIMIT 20;
+
