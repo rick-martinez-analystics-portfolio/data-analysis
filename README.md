@@ -1,5 +1,5 @@
 📊 Data Analysis Portfolio
-Welcome to my data analysis portfolio. This repository showcases my work across Power BI, SQL, Python, and end‑to‑end analytics. Each project includes documentation, insights, and downloadable files to demonstrate my approach to solving real business problems.
+Welcome to my data analysis portfolio. This repository showcases my work across Power BI, SQL, and end‑to‑end analytics. Each project includes documentation, insights, and downloadable files to demonstrate my approach to solving real business problems.
 
 🔧 Technical Skills
 - Power BI Desktop: data modeling, DAX, KPI design, dashboard development
@@ -19,10 +19,6 @@ A collection of SQL queries exploring operational efficiency and inventory trend
 Skills: SQL logic, data cleaning, analytical thinking
 ➡️ Folder coming soon
 
-3. Python EDA: Customer Behavior Analysis
-Exploratory data analysis using Python to uncover patterns in customer behavior and identify actionable insights.
-Skills: Data wrangling, visualization, storytelling
-➡️ Folder coming soon
 
 📬 Contact
 - LinkedIn: www.linkedin.com/in/rickmartinez-139989138
