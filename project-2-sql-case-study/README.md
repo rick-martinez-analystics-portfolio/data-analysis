@@ -113,3 +113,57 @@ Strategic Recommendations
 - Optimize shipping cost structure
 - Promote high‑margin subcategories
 
+How to Run the Queries
+This project is fully reproducible. Follow the steps below to run the SQL scripts using the included SQLite database.
+
+1. Download the project
+Clone or download the repository:
+git clone https://github.com/rick-martinez-analystics-portfolio/data-analysis
+Or click Code → Download ZIP on GitHub.
+
+2. Open the SQLite database
+Use any SQLite-compatible tool:
+- DBeaver (recommended)
+- DB Browser for SQLite
+- Azure Data Studio with SQLite extension
+- SQLite CLI
+Open the file located at:
+project-2-sql-case-study/data/superstore_clean.db
+
+3. Open the SQL scripts
+Inside the repo, navigate to:
+project-2-sql-case-study/sql/
+You will see:
+- 01_customer_year.sql
+- 02_decline_flag.sql
+- 03_segment_summary.sql
+These scripts are designed to run in order.
+
+4. Run the scripts sequentially
+Step 1 — Customer-Year Aggregation
+Run:
+01_customer_year.sql
+This creates a CTE that aggregates yearly sales per customer and category.
+Step 2 — Decline Flag Calculation
+Run:
+02_decline_flag.sql
+This applies the LAG() window function to detect year-over-year declines.
+Step 3 — Segment-Level Summary
+Run:
+03_segment_summary.sql
+This produces the final business-facing output:
+- Number of declining customers per segment
+- Revenue from declining customers
+- Total revenue per segment
+- Year-over-year trends
+
+5. View the results
+Each script ends with a SELECT statement so you can immediately see the output in your SQL editor.
+
+6. Optional — Modify or extend the analysis
+Because the database is included, you can:
+- Add new CTEs
+- Analyze profit decline
+- Build customer-level churn scoring
+- Export tables into Power BI
+
